@@ -12,7 +12,7 @@ Assignment 2: Think of a set of useful properties (color? name?) for each class.
 
 Assignment 3: Think of a set of useful methods (start()? pedal()?) for each class. 
 
-Assignment 4:  Sometimes classes are composed with entities that are not expressible using Python data type (e.g. integer, string).  For example, a car and bike both have wheels or a car has an engine. Create subclasses for each entity and use composition to add them to your car or bicycle class. You may use the same wheel class for cars and bikes. 
+Assignment 4:  Sometimes classes are composed with entities that are not expressible using Python data type (e.g. integer, string).  For example, a car and bike both have wheels or a car has an engine. Create classes for each entity and use composition to add them to your car or bicycle class. You may use the same wheel class for cars and bikes. 
 
 Assignment 5: Abstract both classes into a vehicle class. Should this class be abstract or not? Figure out what methods and properties should go in the vehicle class and what should stay in the car and bicycle class.
 

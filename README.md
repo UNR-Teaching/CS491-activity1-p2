@@ -14,8 +14,6 @@ Assignment 3: Think of a set of useful methods (start()? pedal()?) for each clas
 
 Assignment 4:  Sometimes classes are composed with entities that are not expressible using Python data type (e.g. integer, string).  For example, a car and bike both have wheels or a car has an engine. Create subclasses for each entity and use composition to add them to your car or bicycle class. You may use the same wheel class for cars and bikes. 
 
-Assignment 5: Abstract both classes into a vehicle class. Should this class be abstract or not? Figure out what methods and properties should go in the vehicle class and what should stay in the car and bicycle class. 
-
-Assignment 6: Test in your main class if you can use polymorphism, e.g., create a vehicle object and assign it to a car, test something and then assign it to a bicycle. 
+Assignment 5: Abstract both classes into a vehicle class. Should this class be abstract or not? Figure out what methods and properties should go in the vehicle class and what should stay in the car and bicycle class.
 
 To submit, just push your code to this repository. This work will be due tonight at 6pm.

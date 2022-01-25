@@ -4,7 +4,6 @@ class Vehicle:
     def __init__(Vehicle, color, age):
         Vehicle.color = color
         Vehicle.age = age
-        Vehicle.weight = weight
         def start(Vehicle):
             print("Starting Up...")
         def drive(Vehicle):
